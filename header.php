@@ -182,7 +182,7 @@ body {
 				<div class="container">
 					
 					<ul class="header-links pull-right">
-						<li><a href="#"><i class="fa fa-dollar"></i> AU</a></li>
+						<li><a href="#"><i class="fa fa-dollar"></i>AU</a></li>
 						<li><?php
                              include "db.php";
                             if(isset($_SESSION["uid"])){
@@ -268,7 +268,7 @@ body {
 										</div>
 										
 										<div class="cart-btns">
-												<a href="cart.php" style="width:100%;"><i class="fa fa-edit"></i>  edit cart</a>
+												<a href="cart.php" style="width:100%;"><i class="fa fa-edit"></i>  Edit cart</a>
 											
 										</div>
 									</div>
